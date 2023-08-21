@@ -4,10 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1ef1812-f5c2-445a-ae18-bcfdd54da768" name="Changes" comment="Intial commit">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Red-John-Is-Back.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/kotlin/Test-Red-John-Is_Back.kt" afterDir="false" />
+    <list default="true" id="d1ef1812-f5c2-445a-ae18-bcfdd54da768" name="Changes" comment="Initial RJIB commit">
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/kotlinc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/kotlin/Test-Red-John-Is_Back.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/kotlin/Test-Red-John-Is_Back.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/kotlin/cache/Secret.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/kotlin/cache/Secret.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,20 +29,20 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin Class" />
         <option value="Kotlin File" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "jonrysimbolon"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;jonrysimbolon&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -53,9 +57,9 @@
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2UFnyBfOMm9nYylfdjEvAmDfva1" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -73,7 +77,19 @@
     "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/kotlin/cache" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin.SecretKt">
+    <configuration name="SecretKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cache.SecretKt" />
+      <module name="HackerRank.test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Test_Red_John_Is_BackKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Test_Red_John_Is_BackKt" />
       <module name="HackerRank.test" />
@@ -83,6 +99,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.SecretKt" />
         <item itemvalue="Kotlin.Test_Red_John_Is_BackKt" />
       </list>
     </recent_temporary>
@@ -104,12 +121,21 @@
       <option name="project" value="LOCAL" />
       <updated>1692545440645</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Initial RJIB commit">
+      <option name="closed" value="true" />
+      <created>1692546668869</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1692546668869</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Intial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Intial commit" />
+    <MESSAGE value="Initial RJIB commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial RJIB commit" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
