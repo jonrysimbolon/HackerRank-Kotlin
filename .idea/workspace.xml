@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d1ef1812-f5c2-445a-ae18-bcfdd54da768" name="Changes" comment="Initial RJIB commit">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Grading-Students.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/kotlinc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/kotlin/Test-Red-John-Is_Back.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/kotlin/Test-Red-John-Is_Back.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/kotlin/cache/Secret.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/kotlin/cache/Secret.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +71,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui"
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -82,7 +79,14 @@
       <recent name="$PROJECT_DIR$/src/test/kotlin/cache" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.SecretKt">
+  <component name="RunManager" selected="Kotlin.Grading_StudentsKt">
+    <configuration name="Grading_StudentsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Grading_StudentsKt" />
+      <module name="HackerRank.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SecretKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cache.SecretKt" />
       <module name="HackerRank.test" />
@@ -99,6 +103,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Grading_StudentsKt" />
         <item itemvalue="Kotlin.SecretKt" />
         <item itemvalue="Kotlin.Test_Red_John_Is_BackKt" />
       </list>
