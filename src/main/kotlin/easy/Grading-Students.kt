@@ -1,3 +1,5 @@
+package easy
+
 import kotlin.math.ceil
 
 fun upMultiple5(n: Int): Int {
